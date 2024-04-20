@@ -3,7 +3,7 @@ body {
     padding: 0;
     height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    background-image: linear-gradient(to bottom right, rgb(34,14,105),rgb(10,213,240));
+    background-image: linear-gradient(to bottom right, rgb(34,14,105),rgb(118, 152, 54));
 }
 
 .container {
